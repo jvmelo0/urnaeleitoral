@@ -1,5 +1,8 @@
 <h1 align="center"> :ballot_box:Urna Eleitoral Eletrônica / Electronic Voting Machine </h1>
 
+<img width="1200" height="760" alt="image" src="https://github.com/user-attachments/assets/9d872074-d265-46c6-b6bb-b3239ad826c5" />
+
+
 ## :pencil: Descrição / Description
 <p align="left"> Urna eleitoral eletrônica deselvolvida em C criado no segundo semestre de 2022 como projeto para a disciplina de AOC, Algoritmos, Lógica de Programação e Circuitos Digitais do curso de Ciências da Computação na faculdade Unifaj </p>
 <p align="lef"> Electronic ballot box developed in C created in the second semester of 2022 as a project for the AOC, Algorithms, Programming Logic and Digital Circuits discipline of the Computer Science course at Unifaj college </p>
